@@ -5,7 +5,7 @@ Frontend developer
 ------------------
 
 * 🌍  I'm based in Nizhny Novgorod, Russia
-* 🖥️  See my portfolio at [MyPorfolio](http://ousbaiy.netlify.app/)
+* 🖥️  See my portfolio at [MyPorfolio](http://ousbaiy.com/)
 * ✉️  You can contact me at [oussama.esbaiy@gmail.com](mailto:oussama.esbaiy@gmail.com)
 * 🧠  I'm Currently learning TS
 
